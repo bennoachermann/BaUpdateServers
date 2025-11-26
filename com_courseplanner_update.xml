@@ -1,0 +1,17 @@
+<update>
+    <name>Courseplanner</name>
+    <description/>
+    <element>com_courseplanner</element>
+    <type>component</type>
+    <version>4.1.0</version>
+    <infourl title="Installation Instruction">https://www.bennoachermann.ch/</infourl>
+    <downloads>
+        <downloadurl type="full" format="zip">https://www.bennoachermann.ch/download/courseplanner/com_courseplanner_4.1.1.zip</downloadurl>
+    </downloads>
+    <tags>
+        <tag>stable</tag>
+    </tags>
+    <maintainer>Benno Achermann</maintainer>
+    <maintainerurl>https://www.bennoachermann.ch</maintainerurl>
+    <targetplatform name="joomla" version="4.[0123456789]"/>
+</update>
